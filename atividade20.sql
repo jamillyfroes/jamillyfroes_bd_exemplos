@@ -1,0 +1,1 @@
+delete from Colaborador_Tarde where Cod_Colaborador=19

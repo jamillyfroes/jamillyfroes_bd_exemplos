@@ -1,0 +1,1 @@
+select Primeiro_Nome, Ultimo_Nome, Nr_Depto from Colaborador_Tarde order by Primeiro_Nome
