@@ -1,0 +1,1 @@
+select min(Salario) as salario_min from colaborador_tarde 

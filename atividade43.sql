@@ -1,0 +1,1 @@
+select max(Salario) as salario_max from colaborador_tarde 

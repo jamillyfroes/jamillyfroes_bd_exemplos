@@ -1,0 +1,1 @@
+select Nr_Depto, avg(Salario) as salario_avg from colaborador_tarde group by Nr_Depto order by Nr_Depto

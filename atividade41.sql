@@ -1,0 +1,1 @@
+select avg(Salario) as salario_avg from colaborador_tarde
